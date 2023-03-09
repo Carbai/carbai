@@ -4,6 +4,8 @@
 
 #### I am a computational chemist 👩🏻‍💻. 
 
+<img align="center" width="100" height="100" src="Picture1.png">
+
 ![A nice example!](Picture1.png)
 
 Here you can find a few scripts that 
