@@ -3,7 +3,10 @@
 
 
 #### I am a computational chemist 👩🏻‍💻. ![A nice example!](Picture1.png)
-Here you can find a few scripts that I wrote during my compchem journey plus other coding I have been mostly doing for fun.
+Here you can find a few scripts that 
+I wrote during my compchem journey 
+plus other coding I have been mostly 
+doing for fun.
 
 - 🔭 I’m currently at the very end of my PhD (few months left)
 - 🌱 I’m currently learning ML with Python
