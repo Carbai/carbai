@@ -1,21 +1,6 @@
-# Markdown Magic [![npm-version][npm-badge]][npm-link]
-
-✨ Add a little magic to your markdown ✨
-
-## About
-
-<img align="right" width="200" height="183" src="https://cloud.githubusercontent.com/assets/532272/21507867/3376e9fe-cc4a-11e6-9350-7ec4f680da36.gif">Markdown magic uses comment blocks in markdown files to automatically sync or transform its contents.
-
-
 ### Hi and welcome 👋
 
-
-
-#### I am a computational chemist 👩🏻‍💻. 
-
-<img align="right" src="Picture1.png"> Here you can find a few scripts that I wrote during my compchem journey plus other coding I have been mostly doing for fun.
-
-![A nice example!](Picture1.png)
+<img align="right" src="Picture1.png"> #### I am a computational chemist 👩🏻‍💻. Here you can find a few scripts that I wrote during my compchem journey plus other coding I have been mostly doing for fun.
 
 Here you can find a few scripts that 
 I wrote during my compchem journey 
