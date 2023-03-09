@@ -1,6 +1,6 @@
 ### Hi and welcome 👋
 
-[![A nice example!](https://www.dropbox.com/home/AAatICE.mp4)
+[![A nice example!](/carbai/edit/main/AAatICE.mp4)
 
 #### I am a computational chemist 👩🏻‍💻. 
 Here you can find a few scripts that I wrote during my compchem journey plus other coding I have been mostly doing for fun.
