@@ -13,7 +13,7 @@
 
 #### I am a computational chemist 👩🏻‍💻. 
 
-<img align="center" src="Picture1.png">
+<img align="right" src="Picture1.png"> Here you can find a few scripts that I wrote during my compchem journey plus other coding I have been mostly doing for fun.
 
 ![A nice example!](Picture1.png)
 
