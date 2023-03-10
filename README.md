@@ -4,7 +4,7 @@
 
 <img align="right" src="Picture1.png"> I am a computational chemist 👩🏻‍💻. 
 
-![clus](https://www.dropbox.com/s/1ota8jinavl6zun/clus.gif?dl=0)
+![clus](https://www.dropbox.com/s/1ota8jinavl6zun/clus.gif?dl=1)
 
 
 Most of my time is dedicated to the understanding of the chemisty at the solid interface.
