@@ -19,4 +19,4 @@ My main goal now is to become proficient with ML algorith and their application 
 - 📫 How to reach me: carmen.baiano@sns.it
 - ⚡ Fun fact: As chemist I only perform experiments in my kitchen 
 
-![Snake animation](https://github.com/{{your_username}}/{{your_username}}/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/Carbai/carbai/blob/output/github-contribution-grid-snake.svg)
