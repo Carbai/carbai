@@ -4,6 +4,8 @@
 
 <img align="right" src="Picture1.png"> I am a computational chemist 👩🏻‍💻. 
 
+![test](https://www.dropbox.com/s/1ota8jinavl6zun/clus.gif?dl=0)
+
 Most of my time is dedicated to the understanding of the chemisty at the solid interface.
 
 In this sense I use quantum-chemical (QM) and since more recently also molecular dynamics (MD) tools for the simulation of organics adsorption on icy structures representatives of interstellar ices.
