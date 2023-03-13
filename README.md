@@ -22,7 +22,7 @@ If you are more interested in getting to know what I like and science communicat
 <a href="https://www.instagram.com/ispira_sns"> <img src="https://github.com/Carbai/carbai_public/blob/master/Loghi/Logo_Ispira_colore_quadrato_RGB_72dpi.jpg" width="40"> </a> Check out new ideas to ispire young girls in science and follow "ISPIRA", our project made by young women in science to inspire future women in science sponsored and funded by my current institution Scuola Normale di Pisa. </p> 
 
 <p align="center">
-If beer is the science you value the most follow us at Pint of Science <a href="https://pintofscience.it/"> <img src="https://github.com/Carbai/carbai_public/blob/master/Loghi/pos_Italy.png" width="80"> </a> and look for the events near you. <a href="https://pintofscience.com"  <img src="https://github.com/Carbai/carbai_public/blob/master/Loghi/pos_world.png" width="80"> </a>  </p> 
+If beer is the science you value the most follow us at Pint of Science <a href="https://pintofscience.it/"> <img src="https://github.com/Carbai/carbai_public/blob/master/Loghi/pos_Italy.png" width="80"> </a> and look for the events near you. <a href="https://pintofscience.com">  <img src="https://github.com/Carbai/carbai_public/blob/master/Loghi/pos_world.png" width="80"> </a>  </p> 
 
 Github is the space I dedicated to a few scripts that I wrote during my compchem journey plus other coding I have been mostly doing for fun. 
 
