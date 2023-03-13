@@ -29,7 +29,7 @@ Github is the space I dedicate to a few scripts that I wrote during my compchem 
 
 I am currently learning a bit of JavaScript. My main goal now is to become proficient with ML algorithms and their application for material discovery so in the next future you might find a little more about that.
 
-###Short list for all the millenials who love lists:###
+### Short list for all the millenials who love lists:
 
 - 🔭 I’m currently at the very end of my PhD (few months left)
 - 🌱 I’m currently learning ML with Python
