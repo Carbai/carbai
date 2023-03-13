@@ -15,13 +15,14 @@ In the past I worked in the simulation of material for energy storage and conver
 <img src="https://github.com/Carbai/carbai_public/blob/master/Loghi/517-5171353_1-researchgate-logo-circle-hd-png-download.png" width="40"> </a> <a href="https://www.linkedin.com/in/carmen-baiano-compchem">
 <img src="https://github.com/Carbai/carbai_public/blob/master/Loghi/Linkedin-logo-on-transparent-Background-PNG-.png" width="40"> </a> These are the places for you if you want to know more about my chemistry work. </p> 
 
+<p align="center">
+If you are more interested in getting to know what I like and science communication events please follow me on IG <a href="https://www.instagram.com/carmenbaiano/?hl=de"> <img src="https://github.com/Carbai/carbai_public/blob/master/Loghi/ig_logo2.png" width="40"> </a> </p> 
 
-If you are more interested in getting to know what I like and science communication events please follow me on IG <a href="https://www.instagram.com/carmenbaiano/?hl=de"> <img src="https://github.com/Carbai/carbai_public/blob/master/Loghi/ig_logo2.png" width="40"> </a>
+<p align="center">
+<a href="https://www.instagram.com/ispira_sns"> <img src="https://github.com/Carbai/carbai_public/blob/master/Loghi/Logo_Ispira_colore_quadrato_RGB_72dpi.jpg" width="40"> </a> Check out new ideas to ispire young girls in science and follow "ISPIRA", our project made by young women in science to inspire future women in science sponsored and funded by my current institution Scuola Normale di Pisa. </p> 
 
-If you are interested in new ideas to ispire young girls in science follow "ISPIRA" on our social media, our project made by women for women in science sponsored and funded by my current institution Scuola Normale di Pisa. <a href="https://www.instagram.com/ispira_sns">
-<img src="https://github.com/Carbai/carbai_public/blob/master/Loghi/Logo_Ispira_colore_quadrato_RGB_72dpi.jpg" width="40"> </a>
-
-If beer is the science you value the most follow us at Pint of Science <a href="https://pintofscience.it/"> <img src="https://github.com/Carbai/carbai_public/blob/master/Loghi/pos_Italy.png" width="40"> </a>
+<p align="center">
+If beer is the science you value the most follow us at Pint of Science <a href="https://pintofscience.it/"> <img src="https://github.com/Carbai/carbai_public/blob/master/Loghi/pos_Italy.png" width="80"> </a> and look for the events near you. <a href="https://pintofscience.com"  <img src="https://github.com/Carbai/carbai_public/blob/master/Loghi/pos_world.png" width="80"> </a>  </p> 
 
 Github is the space I dedicated to a few scripts that I wrote during my compchem journey plus other coding I have been mostly doing for fun. 
 
