@@ -19,7 +19,7 @@ In the past I worked in the simulation of material for energy storage and conver
 </p> 
 
 <div>
-  <img src="https://github.com/Carbai/carbai_public/blob/master/Loghi/ig_logo2.png" width="40"> <span style="">Works.</span>
+  <img style="vertical-align:middle" src="https://github.com/Carbai/carbai_public/blob/master/Loghi/ig_logo2.png" width="40"> <span style="">Works.</span>
 </div>
 
 If you are more interested in getting to know what I like and science communication events please follow me on IG <a href="https://www.instagram.com/carmenbaiano/?hl=de"> <img src="https://github.com/Carbai/carbai_public/blob/master/Loghi/ig_logo2.png" width="40"> </a> </p> 
