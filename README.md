@@ -15,8 +15,8 @@ In the past I worked in the simulation of material for energy storage and conver
 <img src="https://github.com/Carbai/carbai_public/blob/master/Loghi/517-5171353_1-researchgate-logo-circle-hd-png-download.png" width="40"> </a> <a href="https://www.linkedin.com/in/carmen-baiano-compchem">
 <img src="https://github.com/Carbai/carbai_public/blob/master/Loghi/Linkedin-logo-on-transparent-Background-PNG-.png" width="40"> </a> These are the places for you if you want to know more about my chemistry work. </p> 
 
-If you are more interested in getting to know what I like and science communication events please follow me on IG  👉 <a href="https://www.instagram.com/carmenbaiano/?hl=de">
-<img src="https://github.com/Carbai/carbai_public/blob/master/Loghi/ig_logo2.png" width="40"> </a>
+
+If you are more interested in getting to know what I like and science communication events please follow me on IG <a href="https://www.instagram.com/carmenbaiano/?hl=de"> <img src="https://github.com/Carbai/carbai_public/blob/master/Loghi/ig_logo2.png" width="40"> </a>
 
 If you are interested in new ideas to ispire young girls in science follow "ISPIRA" on our social media, our project made by women for women in science sponsored and funded by my current institution Scuola Normale di Pisa. <a href="https://www.instagram.com/ispira_sns">
 <img src="https://github.com/Carbai/carbai_public/blob/master/Loghi/Logo_Ispira_colore_quadrato_RGB_72dpi.jpg" width="40"> </a>
