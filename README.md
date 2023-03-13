@@ -5,7 +5,7 @@
 <img align="right" src="Picture1.png"> I am a computational chemist 👩🏻‍💻. 
 
 
-![clus](https://github.com/Carbai/carbai_public/blob/output/clus.gif)
+![clus](https://github.com/Carbai/carbai_public/clus.gif)
 
 
 Most of my time is dedicated to the understanding of the chemisty at the solid interface.
