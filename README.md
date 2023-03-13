@@ -24,7 +24,8 @@ If you are more interested in getting to know what I like and science communicat
 <p align="center">
 If beer is the science you value the most follow us at Pint of Science <a href="https://pintofscience.it/"> <img src="https://github.com/Carbai/carbai_public/blob/master/Loghi/pos_Italy.png" width="80"> </a> and look for the events near you. <a href="https://pintofscience.com">  <img src="https://github.com/Carbai/carbai_public/blob/master/Loghi/pos_world.png" width="80"> </a>  </p> 
 
-Github is the space I dedicated to a few scripts that I wrote during my compchem journey plus other coding I have been mostly doing for fun. 
+
+Github is the space I dedicate to a few scripts that I wrote during my compchem journey plus other coding I have been mostly doing for fun. 
 
 I am currently learning a bit of JavaScript. My main goal now is to become proficient with ML algorithms and their application for material discovery so in the next future you might find a little more about that.
 
