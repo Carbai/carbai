@@ -10,7 +10,7 @@ In this sense I use quantum-chemical (QM) and since more recently also molecular
 In the past I worked in the simulation of material for energy storage and conversion.
 If you are interested in my chemistry work please follow the link reported 👇
 
-[![linkedin](https://github.com/shikhar1020jais1/Git-Social/blob/master/Icons/LinkedIn1.png)][4]
+[![linkedin](https://github.com/shikhar1020jais1/Git-Social/blob/master/Icons/LinkedIn1.png width=100)][4]
 
 [4]: https://www.linkedin.com/in/carmen-baiano-compchem/
 
