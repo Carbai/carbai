@@ -10,9 +10,9 @@ In this sense I use quantum-chemical (QM) and since more recently also molecular
 In the past I worked in the simulation of material for energy storage and conversion.
 If you are interested in my chemistry work please follow the link reported 👇
 
-<img src="https://github.com/Carbai/carbai_public/blob/master/Loghi/Linkedin-logo-on-transparent-Background-PNG-.png" width="40"> [4]
+<a href="https://www.linkedin.com/in/carmen-baiano-compchem/">
+<img src="https://github.com/Carbai/carbai_public/blob/master/Loghi/Linkedin-logo-on-transparent-Background-PNG-.png" width="40"> </a>
 
-[4]: https://www.linkedin.com/in/carmen-baiano-compchem/
 
 
 Here you can find a few scripts that I wrote during my compchem journey plus other coding I have been mostly doing for fun. 
