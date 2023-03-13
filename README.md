@@ -2,7 +2,9 @@
 
 ## I am still working on this page so if by chance you ended up here sorry I am doing my best :) 
 
-<img align="right" src="Picture1.png"> I am a computational chemist 👩🏻‍💻. 
+<img align="right" src="Picture1.png"> 
+
+<img align="right" src="https://github.com/Carbai/carbai_public/blob/master/clus.gif">  I am a computational chemist 👩🏻‍💻.
 
 
 ![clus](https://github.com/Carbai/carbai_public/blob/master/clus.gif)
