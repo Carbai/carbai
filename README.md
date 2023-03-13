@@ -10,6 +10,11 @@ In this sense I use quantum-chemical (QM) and since more recently also molecular
 In the past I worked in the simulation of material for energy storage and conversion.
 If you are interested in my chemistry work please follow the link reported 👇
 
+[![linkedin](https://github.com/Carbai/carbai_public/Loghi/blob/master/Linkedin-logo-on-transparent-Background-PNG-.png (LinkedIn))][4]
+
+[4]: https://www.linkedin.com/in/carmen-baiano-compchem/
+
+
 Here you can find a few scripts that I wrote during my compchem journey plus other coding I have been mostly doing for fun. 
 I am learning a bit of JavaScript.
 My main goal now is to become proficient with ML algorith and their application for material discovery so in the next future we may be find a little more about this too.
