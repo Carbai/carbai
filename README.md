@@ -16,7 +16,7 @@ If you are interested in my chemistry work please follow the link reported 👇
 <a href="https://www.researchgate.net/profile/Carmen-Baiano">
 <img src="https://github.com/Carbai/carbai_public/blob/master/Loghi/517-5171353_1-researchgate-logo-circle-hd-png-download.png" width="40"> </a>
 
-<img src="https://github.com/Carbai/carbai_public/blob/master/Loghi/ig_logo.png" width="40"> 
+<img src="https://github.com/Carbai/carbai_public/blob/master/Loghi/ig_logo.jpeg" width="40"> 
 
 Here you can find a few scripts that I wrote during my compchem journey plus other coding I have been mostly doing for fun. 
 I am learning a bit of JavaScript.
