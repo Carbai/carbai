@@ -10,10 +10,15 @@ In this sense I use quantum-chemical (QM) and since more recently also molecular
 
 In the past I worked in the simulation of material for energy storage and conversion.
 
+<div>
 <p align="center">
 <a href="https://www.researchgate.net/profile/Carmen-Baiano">
-<img src="https://github.com/Carbai/carbai_public/blob/master/Loghi/517-5171353_1-researchgate-logo-circle-hd-png-download.png" width="40"> </a> <a href="https://www.linkedin.com/in/carmen-baiano-compchem">
-<img src="https://github.com/Carbai/carbai_public/blob/master/Loghi/Linkedin-logo-on-transparent-Background-PNG-.png" width="40"> </a> These are the places for you if you want to know more about my chemistry work. </p> 
+  <img src="https://github.com/Carbai/carbai_public/blob/master/Loghi/517-5171353_1-researchgate-logo-circle-hd-png-download.png" width="40"> </a>
+<a href="https://www.linkedin.com/in/carmen-baiano-compchem">
+  <img src="https://github.com/Carbai/carbai_public/blob/master/Loghi/Linkedin-logo-on-transparent-Background-PNG-.png" width="40"> 
+</a> These are the places for you if you want to know more about my chemistry work.  
+</p> 
+</div>
 
 <p align="center">
 If you are more interested in getting to know what I like and science communication events please follow me on IG <a href="https://www.instagram.com/carmenbaiano/?hl=de"> <img src="https://github.com/Carbai/carbai_public/blob/master/Loghi/ig_logo2.png" width="40"> </a> </p> 
