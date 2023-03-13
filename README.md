@@ -2,13 +2,7 @@
 
 ## I am still working on this page so if by chance you ended up here sorry I am doing my best :) 
 
-<img align="right" src="Picture1.png"> 
-
 <img align="right" src="https://github.com/Carbai/carbai_public/blob/master/clus.gif">  I am a computational chemist 👩🏻‍💻.
-
-
-![clus](https://github.com/Carbai/carbai_public/blob/master/clus.gif)
-
 
 Most of my time is dedicated to the understanding of the chemisty at the solid interface.
 
