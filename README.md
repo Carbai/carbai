@@ -1,12 +1,14 @@
 ### Hi and welcome 👋
 
-<img align="right" src="https://github.com/Carbai/carbai_public/blob/master/clus.gif" width="400">  I am a computational chemist 👩🏻‍💻.
+<img align="right" src="https://github.com/Carbai/carbai_public/blob/master/clus.gif" width="400">  I am a computational chemist and data scientist 👩🏻‍💻.
 
-Most of my time is dedicated to the understanding of the chemisty at the solid interface.
+During my PhD, I explored the chemisty at the solid interface.
 
-In this sense I use quantum-chemical (QM) and since more recently also molecular dynamics (MD) tools for the simulation of organics adsorption on icy structures representatives of interstellar ices.
+By using quantum-chemical (QM) and molecular dynamics (MD) tools I had a priviledged view in the adsorption process of organics on icy structures.
+Looking at how molecules interact and form, how cool is that?!
 
-In the past I worked in the simulation of material for energy storage and conversion.
+In the past I worked in the simulation of materials for energy storage and conversion.
+I love catalysts, they have the power to make possible the impossible. It's up to us to find new and innovative chemical formula for more sustainable processes.
 
 <p align="center">
 <a href="https://www.researchgate.net/profile/Carmen-Baiano">
@@ -33,9 +35,8 @@ I am currently learning a bit of JavaScript. My main goal now is to become profi
 
 ### Short list for all the millenials who love lists:
 
-- 🔭 I’m currently at the very end of my PhD (few months left)
-- 🌱 I’m currently learning ML with Python
-- 👯 I’m looking for a new job/career in science
+- 🔭 I landed my first job as research data scientist
+- 🌱 I’m constantly on a learning journey
 - 💬 If you think I may be useful for anything please get in touch
 - 📫 Get in touch at: carmen.baiano@sns.it
 - ⚡ Fun fact: As chemist I only get dirty hands with experiments in my kitchen 
