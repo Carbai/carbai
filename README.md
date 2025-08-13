@@ -33,6 +33,10 @@ I am currently learning a bit of JavaScript. My main goal now is to become profi
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=carbai&layout=compact)](https://github.com/carbai/github-readme-stats)
 
+
+### Projects
+[![Pinky data science](https://pinky-ds.onrender.com)
+
 ### Short list for all the millenials who love lists:
 
 - 🔭 I landed my first job as research data scientist
