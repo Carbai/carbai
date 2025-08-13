@@ -35,7 +35,7 @@ I am currently learning a bit of JavaScript. My main goal now is to become profi
 
 
 ### Projects
-<a href="https://pinky-ds.onrender.com">
+[Visit the project](https://pinky-ds.onrender.com)
 
 ### Short list for all the millenials who love lists:
 
