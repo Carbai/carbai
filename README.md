@@ -30,14 +30,14 @@ Looking at how molecules interact and form, how cool is that?!
 
 ### Short list for all the millenials who love lists:
 
-- 🍺 On the organizing committee of [Pint of Science](https://pintofscience.it/) since 2018
-- 👩‍🔬 Co-founded [ISPIRA](https://www.instagram.com/ispira_sns), a project inspiring young
+🍺 On the organizing committee of [Pint of Science](https://pintofscience.it/) since 2018
+👩‍🔬 Co-founded [ISPIRA](https://www.instagram.com/ispira_sns), a project inspiring young
   women into science — funded by Scuola Normale Superiore di Pisa, now running at national scale
-- 🎤 Speaker mentoring at TED events
-- 🌱 I’m constantly on a learning journey
-- 💬 If you think I may be useful for anything please get in touch
-- 📫 Get in touch at: baianocarmen@gmail.com
-- ⚡ Fun fact: As chemist I only get dirty hands with experiments in my kitchen
+🎤 Speaker mentoring at TED events
+🌱 I’m constantly on a learning journey
+💬 If you think I may be useful for anything please get in touch
+📫 Get in touch at: baianocarmen@gmail.com
+⚡ Fun fact: As chemist I only get dirty hands with experiments in my kitchen
 
 ### 📚 Data books I'd recommend
 
