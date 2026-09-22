@@ -39,11 +39,12 @@ Looking at how molecules interact and form, how cool is that?!
 
 - **[Weapons of Math Destruction](https://www.goodreads.com/book/show/28186015-weapons-of-math-destruction)** — Cathy O'Neil.
   How opaque algorithms encode bias and cause real harm at scale. Essential reading on the ethics of modelling.
-- **[Invisible Women](https://www.goodreads.com/book/show/41104077-invisible-women)** — Caroline Criado Perez.
+- **[Invisible Women](https://www.goodreads.com/book/show/41104077-invisible-women?from_search=true&from_srp=true&qid=I4KWIOQjWj&rank=1)** — Caroline Criado Perez.
   How missing data erases women from decisions built on it. A powerful case study in what gaps in data actually cost.
-- **[Calling Bullshit](https://www.goodreads.com/book/show/43970147-calling-bullshit)** — Carl Bergstrom & Jevin West.
+- **[Calling Bullshit](https://www.goodreads.com/book/show/48889983-calling-bullshit?from_search=true&from_srp=true&qid=ZF3ykdcKkJ&rank=1)** — Carl T. Bergstrom & Jevin D. West.
   A practical field guide to spotting misleading data, charts, and statistical claims.
-- **[Naked Statistics](https://www.goodreads.com/book/show/17986418-naked-statistics)** — Charles Wheelan.
+- **[Naked Statistics](https://www.goodreads.com/book/show/17986418-naked-statistics?ref=nav_sb_ss_1_11)** — Charles Wheelan.
   Statistical intuition made genuinely readable — the "why," not just the formulas.
+- **[NOW READING - Empire of AI](https://www.goodreads.com/book/show/222725518-empire-of-ai?ref=nav_sb_ss_1_12)** - Karen Hao 
 
 ![Snake animation](https://github.com/Carbai/carbai/blob/output/github-contribution-grid-snake.svg)
