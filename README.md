@@ -30,7 +30,7 @@ Looking at how molecules interact and form, how cool is that?!
 
 ### Short list for all the millenials who love lists:
 
-🍺 On the organizing committee of [Pint of Science](https://pintofscience.it/) since 2018
+🍺 On the organizing committee of [Pint of Science](https://pintofscience.it/) since 2018 <br>
 👩‍🔬 Co-founded [ISPIRA](https://www.instagram.com/ispira_sns), a project inspiring young
   women into science — funded by Scuola Normale Superiore di Pisa, now running at national scale
 🎤 Speaker mentoring at TED events
