@@ -16,9 +16,11 @@ This is one of the simplest systems i've worked with during my PhD
 
 
 
-Looking at how molecules interact and form, how cool is that?!
+
 
 <img align="left" src="https://github.com/Carbai/carbai_public/blob/master/clus.gif" width="400">  
+
+Looking at how molecules interact and form, how cool is that?!
 
 
 ### Projects
