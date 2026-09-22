@@ -12,7 +12,7 @@ study chemistry at solid interfaces including applying unsupervised ML to simula
 That research background is where I learned how I still work: given a problem no one has
 solved yet, figure it out and build something that works.
 
-This is one of the simplest systems i've worked with during my PhD
+This is one of the simplest systems i've worked with during my PhD.
 
 
 
@@ -30,14 +30,14 @@ Looking at how molecules interact and form, how cool is that?!
 
 ### Short list for all the millenials who love lists:
 
-🍺 On the organizing committee of [Pint of Science](https://pintofscience.it/) since 2018 <br>
+🍺 On the organizing committee of [Pint of Science](https://pintofscience.it/) since 2018. <br>
 👩‍🔬 Co-founded [ISPIRA](https://www.instagram.com/ispira_sns), a project inspiring young
-  women into science — funded by Scuola Normale Superiore di Pisa, now running at national scale
-🎤 Speaker mentoring at TED events
-🌱 I’m constantly on a learning journey
-💬 If you think I may be useful for anything please get in touch
-📫 Get in touch at: baianocarmen@gmail.com
-⚡ Fun fact: As chemist I only get dirty hands with experiments in my kitchen
+  women into science — funded by Scuola Normale Superiore di Pisa, now running at national scale. <br>
+🎤 Speaker mentoring at TED events. <br>
+🌱 I’m constantly on a learning journey. <br>
+💬 If you think I may be useful for anything please get in touch. <br>
+📫 Get in touch at: baianocarmen@gmail.com. <br>
+⚡ Fun fact: As chemist I only get dirty hands with experiments in my kitchen. <br>
 
 ### 📚 Data books I'd recommend
 
