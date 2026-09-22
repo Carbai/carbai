@@ -18,7 +18,7 @@ This is one of the simplest systems i've worked with during my PhD
 
 
 
-<img align="left" src="https://github.com/Carbai/carbai_public/blob/master/clus.gif" width="400" style="margin-right: 25px;">  
+<img align="left" src="https://github.com/Carbai/carbai_public/blob/master/clus.gif" width="400" style="margin-right: 250px;">  
 
 Looking at how molecules interact and form, how cool is that?!
 
