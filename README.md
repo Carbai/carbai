@@ -14,11 +14,11 @@ solved yet, figure it out and build something that works.
 
 This is one of the simplest systems i've worked with during my PhD
 
-<img align="right" src="https://github.com/Carbai/carbai_public/blob/master/clus.gif" width="400">  
+
 
 Looking at how molecules interact and form, how cool is that?!
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=carbai&layout=compact)](https://github.com/carbai/github-readme-stats)
+<img align="left" src="https://github.com/Carbai/carbai_public/blob/master/clus.gif" width="400">  
 
 
 ### Projects
@@ -51,3 +51,5 @@ Looking at how molecules interact and form, how cool is that?!
 - **NOW READING - Empire of AI** - Karen Hao 
 
 ![Snake animation](https://github.com/Carbai/carbai/blob/output/github-contribution-grid-snake.svg)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=carbai&layout=compact)](https://github.com/carbai/github-readme-stats)
