@@ -33,7 +33,7 @@ Looking at how molecules interact and form, how cool is that?!
 🍺 On the organizing committee of [Pint of Science](https://pintofscience.it/) since 2018. <br>
 👩‍🔬 Co-founded [ISPIRA](https://www.instagram.com/ispira_sns), a project inspiring young
   women into science — funded by Scuola Normale Superiore di Pisa, now running at national scale. <br>
-🎤 Speaker mentoring at TED events. <br>
+🎤 Speaker mentoring at TEDx events. <br>
 🌱 I’m constantly on a learning journey. <br>
 💬 If you think I may be useful for anything please get in touch. <br>
 📫 Get in touch at: baianocarmen@gmail.com. <br>
